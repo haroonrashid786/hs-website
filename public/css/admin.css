@@ -1,0 +1,6 @@
+.message_col {
+    text-wrap: nowrap;
+    overflow-x: auto;
+    min-width: '200px';
+    max-width: '200px';
+}
